@@ -1,7 +1,8 @@
 package Heroku;
 
 public class main {
-    public static void main(String args[]){
-        System.out.println("Hello World, you suck!");
+    public static void main(String args[]) {
+        System.out.println("Hello World, you suck a lot!");
 
+    }
 }
